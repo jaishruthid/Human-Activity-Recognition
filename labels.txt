@@ -1,0 +1,4 @@
+0 Sitting
+1 Sleeping
+2 Standing
+3 Walking
